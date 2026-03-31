@@ -11,7 +11,6 @@ I am a <b>1st Year B.Tech Undergraduate</b> in <b>Artificial Intelligence and Ro
 - 📈 **Finance:** Active Financial Analysis via Artificial Intelligence.
 - ✍️ **Freelance:** Delivering high-quality web solutions on Fiverr.
 
-<br />
 
 ---
 
@@ -26,12 +25,11 @@ I am a <b>1st Year B.Tech Undergraduate</b> in <b>Artificial Intelligence and Ro
 
 <br />
 
-### 🌐 Frontend Mastery (Complete Stack)
+### 🌐 Website Development (Complete Stack)
 | <img src="https://skillicons.dev/icons?i=html" width="45"> | <img src="https://skillicons.dev/icons?i=css" width="45"> | <img src="https://skillicons.dev/icons?i=sass" width="45"> | <img src="https://skillicons.dev/icons?i=bootstrap" width="45"> | <img src="https://skillicons.dev/icons?i=tailwind" width="45"> | <img src="https://skillicons.dev/icons?i=react" width="45"> | <img src="https://img.shields.io/badge/-Context_API-61DAFB?style=flat-square&logo=react&logoColor=black" height="35"> | <img src="https://skillicons.dev/icons?i=vite" width="45"> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **HTML5** | **CSS3** | **SASS** | **Bootstrap** | **Tailwind** | **React.js** | **Context API** | **Vite** |
 
-<br />
 
 ---
 
@@ -39,7 +37,6 @@ I am a <b>1st Year B.Tech Undergraduate</b> in <b>Artificial Intelligence and Ro
 
 ## 📊 My GitHub Journey
 
-<br />
 
 ## 🌟 Featured Projects
 
@@ -49,11 +46,9 @@ I am a <b>1st Year B.Tech Undergraduate</b> in <b>Artificial Intelligence and Ro
 | 🗳️ **E-Voting System** | Secure digital voting micro-project for college. | [Live Demo](https://freelancing-projects-vd9w.vercel.app/) |
 | 🛒 **E-Commerce Site** | React-based kids' shopping platform. | [Live Demo](https://freelancing-projects-rose.vercel.app/) |
 
-<br />
 
 ---
 
-<br />
 
 ## 📫 Connect with Me
 <p align="left">
