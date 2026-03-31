@@ -19,9 +19,9 @@ I am a <b>1st Year B.Tech Undergraduate</b> in <b>Artificial Intelligence and Ro
 ## 🛠️ Tech Stack & Skills
 
 ### 💻 Programming & Core Logic
-| <img src="https://skillicons.dev/icons?i=c" width="50"> | <img src="https://skillicons.dev/icons?i=cpp" width="50"> | <img src="https://skillicons.dev/icons?i=py" width="50"> | <img src="https://skillicons.dev/icons?i=js" width="50"> | <img src="https://img.shields.io/badge/-DSA-blue?style=for-the-badge&logo=codeforces&logoColor=white" height="40"> | <img src="https://img.shields.io/badge/-OOPs-orange?style=for-the-badge&logo=concept&logoColor=white" height="40"> |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| **C** | **C++** | **Python** | **JavaScript** | **DSA** | **OOPs** |
+| <img src="https://skillicons.dev/icons?i=c" width="45"> | <img src="https://skillicons.dev/icons?i=cpp" width="45"> | <img src="https://skillicons.dev/icons?i=py" width="45"> | <img src="https://skillicons.dev/icons?i=js" width="45"> | <img src="https://img.shields.io/badge/-Modular%20Dev-9cf?style=for-the-badge&logo=dependencycheck&logoColor=white" height="38"> | <img src="https://img.shields.io/badge/-DSA-blue?style=for-the-badge&logo=codeforces&logoColor=white" height="38"> | <img src="https://img.shields.io/badge/-OOPs-orange?style=for-the-badge&logo=concept&logoColor=white" height="38"> |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **C** | **C++** | **Python** | **JavaScript** | **Modular Programming** | **DSA** | **OOPs** |
 
 <br />
 
