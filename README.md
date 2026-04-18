@@ -45,7 +45,7 @@ I am a <b>1st Year B.Tech Undergraduate</b> in <b>Artificial Intelligence and Ro
 | 🌐 **SocialSphere V2.8** | Premium Dashboard, Dark Mode, Auth persistence. | [Live Demo](https://freelancing-projects-vmmn.vercel.app/) |
 | 🗳️ **E-Voting System** | Secure digital voting micro-project for college. | [Live Demo](https://freelancing-projects-vd9w.vercel.app/) |
 | 🛒 **E-Commerce Site** | React-based kids' shopping platform. | [Live Demo](https://freelancing-projects-rose.vercel.app/) |
-| 🍳 **Recipe AI Dashboard** | Smart recipe finder, modal view, PDF download, auth system, saved library. | [Live Demo](https://freelancing-projects-ndzt.vercel.app/) |
+| 🍳 **AI Recipe Generator** | Smart recipe finder, modal view, PDF download, auth system, saved library. | [Live Demo](https://freelancing-projects-ndzt.vercel.app/) |
 
 
 ## 📫 Connect with Me
