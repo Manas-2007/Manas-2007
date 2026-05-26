@@ -1,16 +1,15 @@
 # 👋 Hello, I'm Manas Patidar!
 
-
 ## 🎯 About Me
 <p align="left">
-I am a <b>1st Year B.Tech Undergraduate</b> in <b>Artificial Intelligence and Robotics</b>. I am a passionate <b>Frontend Developer</b> with a deep interest in <b>Financial Intelligence, Marketing, and Entrepreneurship</b>. My goal is to bridge the gap between advanced technology and business solutions.
+I am a <b>1st Year B.Tech Undergraduate</b> in <b>Artificial Intelligence and Robotics</b>. I am a passionate <b>Full-Stack (MERN) Developer</b> with a deep interest in <b>Financial Intelligence, Marketing, and Entrepreneurship</b>. My goal is to bridge the gap between advanced technology and business solutions.
 </p>
 
 - 🤖 **Future Tech:** Studying AI & Robotics to build the future.
+- 💻 **Full-Stack:** Building end-to-end web apps using React, Node.js, and MongoDB.
 - 💡 **Vision:** Passionate about Financial Intelligence & Marketing.
 - 📈 **Finance:** Active Financial Analysis via Artificial Intelligence.
 - ✍️ **Freelance:** Delivering high-quality web solutions on Fiverr.
-
 
 ---
 
@@ -25,11 +24,17 @@ I am a <b>1st Year B.Tech Undergraduate</b> in <b>Artificial Intelligence and Ro
 
 <br />
 
-### 🌐 Website Development (Complete Stack)
+### 🌐 Website Development (Frontend)
 | <img src="https://skillicons.dev/icons?i=html" width="45"> | <img src="https://skillicons.dev/icons?i=css" width="45"> | <img src="https://skillicons.dev/icons?i=sass" width="45"> | <img src="https://skillicons.dev/icons?i=bootstrap" width="45"> | <img src="https://skillicons.dev/icons?i=tailwind" width="45"> | <img src="https://skillicons.dev/icons?i=react" width="45"> | <img src="https://img.shields.io/badge/-Context_API-61DAFB?style=flat-square&logo=react&logoColor=black" height="35"> | <img src="https://skillicons.dev/icons?i=vite" width="45"> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **HTML5** | **CSS3** | **SASS** | **Bootstrap** | **Tailwind** | **React.js** | **Context API** | **Vite** |
 
+<br />
+
+### ⚙️ Backend, Database & Deployment
+| <img src="https://skillicons.dev/icons?i=nodejs" width="45"> | <img src="https://skillicons.dev/icons?i=express" width="45"> | <img src="https://skillicons.dev/icons?i=mongo" width="45"> | <img src="https://skillicons.dev/icons?i=git" width="45"> | <img src="https://skillicons.dev/icons?i=vercel" width="45"> | <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" height="38"> |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **Node.js** | **Express.js** | **MongoDB** | **Git/GitHub** | **Vercel** | **Render** |
 
 ---
 
@@ -37,11 +42,11 @@ I am a <b>1st Year B.Tech Undergraduate</b> in <b>Artificial Intelligence and Ro
 
 ## 📊 My GitHub Journey
 
-
 ## 🌟 Featured Projects
 
 | Project Name | Feature Highlights | Link |
 | :--- | :--- | :--- |
+| 🩸 **LifeBridge Health Network** | Full-Stack MERN app, REST APIs, automated deployments. | [Live Demo](https://lifebridge-network.vercel.app/) |
 | 🌐 **SocialSphere V2.8** | Premium Dashboard, Dark Mode, Auth persistence. | [Live Demo](https://freelancing-projects-vmmn.vercel.app/) |
 | 🗳️ **E-Voting System** | Secure digital voting micro-project for college. | [Live Demo](https://freelancing-projects-vd9w.vercel.app/) |
 | 🛒 **E-Commerce Site** | React-based kids' shopping platform. | [Live Demo](https://freelancing-projects-rose.vercel.app/) |
