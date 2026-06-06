@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Manas Patidar!
+#  Hello, I'm Manas Patidar!
 
 ## 🎯 About Me
 <p align="left">
@@ -46,7 +46,7 @@ I am a <b>1st Year B.Tech Undergraduate</b> in <b>Artificial Intelligence and Ro
 
 | Project Name | Feature Highlights | Link |
 | :--- | :--- | :--- |
-| 🩸 **LifeBridge Health Network** | Full-Stack MERN app, REST APIs, automated deployments. | [Live Demo](https://lifebridge-network.vercel.app/) |
+| 🩸 **LifeBridge Health Network** | Full-Stack MERN app, REST APIs, automated deployments. | [Live Demo](https://life-bridge-health-network.vercel.app/) |
 | 🌐 **SocialSphere V2.8** | Premium Dashboard, Dark Mode, Auth persistence. | [Live Demo](https://freelancing-projects-vmmn.vercel.app/) |
 | 🗳️ **E-Voting System** | Secure digital voting micro-project for college. | [Live Demo](https://freelancing-projects-vd9w.vercel.app/) |
 | 🛒 **E-Commerce Site** | React-based kids' shopping platform. | [Live Demo](https://freelancing-projects-rose.vercel.app/) |
